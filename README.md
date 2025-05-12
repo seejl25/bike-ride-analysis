@@ -42,6 +42,8 @@ An **Excel dashboard** is included as part of the project for quick and intuitiv
   - Hot: 20 <= temp < 30 degree celsius
   - Very hot: temp >= 30 degree celsius
 
+![Screenshot 2025-05-12 at 9 05 51 PM](https://github.com/user-attachments/assets/eae15efa-2ac8-4cdc-adc2-f6d6c868056e)
+ 
 ---
 
 ## 📁 Files Included
